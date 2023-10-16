@@ -30,3 +30,7 @@ function start()
 }
 
 start()
+
+function EliasHaiku(){
+    console.log("Aapje word wakker", "Aapje heeft honger en eet een banaan", "Aapje heeft geen honger meer")
+}
