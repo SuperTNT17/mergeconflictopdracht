@@ -34,3 +34,7 @@ start()
 function robinHaiku(){
     return ["regel1", "regel2", "regel3"]
 }
+
+function EliasHaiku(){
+    console.log("Aapje word wakker", "Aapje heeft honger en eet een banaan", "Aapje heeft geen honger meer")
+}
