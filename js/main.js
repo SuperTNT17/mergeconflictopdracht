@@ -23,7 +23,7 @@ function randomHaiku()
 
 function start()
 {
-    console.log("starting main")
+    console.log("Toward those short trees","We saw a hawk descending","On a day in spring.")
     
     console.log(randomHaiku())
 
