@@ -30,3 +30,7 @@ function start()
 }
 
 start()
+
+function robinHaiku(){
+    return ["regel1", "regel2", "regel3"]
+}
